@@ -7,7 +7,7 @@ I plan to complete all or as many as possible of the challenges as I can before 
 The list of projects complete should follow the exact order from the contents of the OCR website top to bottom and whilst I may not have the most efficient solution, I aim to have one which can provide the highest marks possible.
 
 ## Links to files:
-[Factorial Finder](docs/FactorialFinder.py)
+[Factorial Finder](OCR-Programming-Challenges/FactorialFinder.py )
 
 ### Task-List
 - [ ] Factorial Finder
