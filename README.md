@@ -1,7 +1,6 @@
 # OCR-Programming-Challenges
 OCR A Level Computer Science
-Tracker for the Programming Challenges booklet
-https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
+Tracker for the [Programming Challenges] (https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf) booklet
 
 I plan to complete all or as many as possible of the challenges as I can before the end of the year, as not only can they be asked in exams (or iterations of them) but they also give me a good view in how to systematically answer these questions under short time conditions.
 
