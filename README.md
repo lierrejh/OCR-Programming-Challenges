@@ -9,8 +9,8 @@ The list of projects complete should follow the exact order from the contents of
 ## Links to files:
 [Factorial Finder](./FactorialFinder.py )
 
-### Task-List
-- [ ] Factorial Finder
+## Task-List
+- [x] Factorial Finder
 - [ ] Speed Tracker
 - [ ] Thief!
 - [ ] Classification
