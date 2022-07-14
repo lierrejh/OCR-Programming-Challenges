@@ -24,5 +24,6 @@ The list of projects complete should follow the exact order from the contents of
 - [ ] Secret Ciphers 
 - [ ] Page Scraper 
 - [ ] Such meme, many like
+
 ... (to continue)
 
