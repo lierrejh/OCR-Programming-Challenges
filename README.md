@@ -30,4 +30,4 @@ The list of projects complete should follow the exact order from the contents of
 I also want to complete as many past paper coding sections as possible - Paper 1 Section B
 
 ## Task-List
-- [ ] [2017 Paper 1 Section B] (.2017Paper1.py)
+- [ ] [2017 Paper 1 Section B] (./2017Paper1.py)
