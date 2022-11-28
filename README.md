@@ -31,4 +31,5 @@ I also want to complete as many past paper coding sections as possible - Paper 1
 
 ## Task-List
 - [x] [2017 Paper 1 Section B](./2017Paper1.py)
-- [ ] [2018 Paper 1 Section B](./2018Paper1.py)
+- [x] [2018 Paper 1 Section B](./2018Paper1.py)
+- [x] [2019 Paper 1 Section B](./2019Paper1.py)
