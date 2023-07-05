@@ -7,20 +7,20 @@ I plan to complete all or as many as possible of the challenges as I can before 
 The list of projects complete should follow the exact order from the contents of the OCR website top to bottom and whilst I may not have the most efficient solution, I aim to have one which can provide the highest marks possible.
 
 ## Task-List
-- [ ] [Prime Factorisation](./PrimeFactorisation.py)
-- [ ] Tilers mate
-- [ ] The meaning of life 
-- [ ] Sudoku 
-- [ ] Find the factorial 
-- [ ] Complex Numbers 
-- [ ] Happy Numbers =) 
-- [ ] Reverse it 
-- [ ] Fireworks 
-- [ ] Mandelbrot Set 
-- [ ] Text-speak converter 
-- [ ] Is this card valid? 
-- [ ] Mortgage Calculator 
-- [ ] Dear Diary 
+- [x] [Prime Factorisation](./PrimeFactorisation.py)
+- [x] Tilers mate
+- [x] The meaning of life 
+- [x] Sudoku 
+- [x] Find the factorial 
+- [x] Complex Numbers 
+- [x] Happy Numbers =) 
+- [x] Reverse it 
+- [x] Fireworks 
+- [x] Mandelbrot Set 
+- [x] Text-speak converter 
+- [x] Is this card valid? 
+- [x] Mortgage Calculator 
+- [x] Dear Diary 
 - [ ] Secret Ciphers 
 - [ ] Page Scraper 
 - [ ] Such meme, many like
